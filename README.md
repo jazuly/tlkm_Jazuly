@@ -1,11 +1,11 @@
 # Jazuly Test Frontend!
 
 ## How to Run the program?
-1. Import database TLKM.sql.
+1. Import database `TLKM.sql`.
 2. Rename file `env` menjadi `.env` edit sesuai kebutuhan.
-3. `composer update`.
-4. `php spark serv`.
-5. Akses web via `http://localhost:8080/`
+3. Buka terminal arahkan ke path folder web kemudian ketikkan perintah `composer update`.
+4. Selanjutnya jalankan program dengan ketikkan perintah `php spark serv`.
+5. Akses program via web `http://localhost:8080/` dengan browsers.
 
 ## Server Requirements
 
