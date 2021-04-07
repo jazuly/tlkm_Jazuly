@@ -22,6 +22,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - xml (enabled by default - don't turn it off)
 
 ## Web Overview
-![](https://github.com/jazuly/tlkm_Jazuly/public/images/Screenshot from 2021-04-07 19-01-12.png)
-![](https://github.com/jazuly/tlkm_Jazuly/public/images/Screenshot from 2021-04-07 19-11-20.png)
-![](https://github.com/jazuly/tlkm_Jazuly/public/images/Screenshot from 2021-04-07 19-11-25.png)
+![](https://github.com/jazuly/tlkm_Jazuly/public/Screenshot from 2021-04-07 19-01-12.png)
+![](https://github.com/jazuly/tlkm_Jazuly/public/Screenshot from 2021-04-07 19-11-20.png)
+![](https://github.com/jazuly/tlkm_Jazuly/public/Screenshot from 2021-04-07 19-11-25.png)
