@@ -1,6 +1,6 @@
-# CodeIgniter 4 Application Starter
+# Jazuly Test Frontend!
 
-## Setup?
+## How to Run the program?
 1. Import database TLKM.sql.
 2. Rename file `env` menjadi `.env` edit sesuai kebutuhan.
 3. `composer update`.
